@@ -8,21 +8,24 @@ body{
     width: 60%;
     margin: auto;
     text-align: center;
-    font-family:'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', Times, serif;
 }
 p{
-    font-size: larger;
+    /* font-size: larger; */
 }
 hr{
     border: 1.5px solid;
 }
 a{
     text-decoration: none;
-    margin: 0px 35px;
+    margin: 0px 30px;
     font-size: large;
     color: black;
     font-weight: 600;
     text-transform: uppercase;
+}
+#main #bold{
+    font-size: x-large;
 }
 img{
     width: 200px;
